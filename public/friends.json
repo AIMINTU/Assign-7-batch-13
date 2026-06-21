@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Johnson",
+     "pictureUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+    "email": "liam.carter@example.com",
+    "daysSinceContact": 12,
+    "status": "Follow-up",
+    "tag": "Client",
+    "bio": "Small business owner seeking workflow optimization solutions.",
+    "goal": "Schedule product demo",
+    "nextDueDate": "2026-06-18"
+    
+  },
+  {
+    "id": 2,
+    "name": "Liam Carter",
+    "pictureUrl": "https://randomuser.me/api/portraits/men/2.jpg",
+    "email": "liam.carter@example.com",
+    "daysSinceContact": 12,
+    "status": "Follow-up",
+    "tag": "Client",
+    "bio": "Small business owner seeking workflow optimization solutions.",
+    "goal": "Schedule product demo",
+    "nextDueDate": "2026-06-18"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Martinez",
+    "pictureUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+    "email": "sophia.martinez@example.com",
+    "daysSinceContact": 2,
+    "status": "Active",
+    "tag": "Partner",
+    "bio": "Technology consultant with a focus on digital transformation.",
+    "goal": "Discuss partnership opportunities",
+    "nextDueDate": "2026-06-22"
+  },
+  {
+    "id": 4,
+    "name": "Noah Wilson",
+    "pictureUrl": "https://randomuser.me/api/portraits/men/4.jpg",
+    "email": "noah.wilson@example.com",
+    "daysSinceContact": 30,
+    "status": "Inactive",
+    "tag": "Lead",
+    "bio": "Operations director exploring process automation tools.",
+    "goal": "Reconnect and assess needs",
+    "nextDueDate": "2026-06-25"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Brown",
+    "pictureUrl": "https://randomuser.me/api/portraits/women/5.jpg",
+    "email": "olivia.brown@example.com",
+    "daysSinceContact": 8,
+    "status": "Pending",
+    "tag": "Prospect",
+    "bio": "Startup founder interested in scaling customer engagement.",
+    "goal": "Review pricing proposal",
+    "nextDueDate": "2026-06-19"
+  },
+  {
+    "id": 6,
+    "name": "James Anderson",
+    "pictureUrl": "https://randomuser.me/api/portraits/men/6.jpg",
+    "email": "james.anderson@example.com",
+    "daysSinceContact": 14,
+    "status": "Follow-up",
+    "tag": "Client",
+    "bio": "Sales executive looking for analytics-driven insights.",
+    "goal": "Finalize contract renewal",
+    "nextDueDate": "2026-06-21"
+  },
+  {
+    "id": 7,
+    "name": "Ava Taylor",
+    "pictureUrl": "https://randomuser.me/api/portraits/women/7.jpg",
+    "email": "ava.taylor@example.com",
+    "daysSinceContact": 1,
+    "status": "Active",
+    "tag": "VIP",
+    "bio": "Enterprise customer managing multiple regional teams.",
+    "goal": "Expand enterprise licenses",
+    "nextDueDate": "2026-06-17"
+  },
+  {
+    "id": 8,
+    "name": "Benjamin Thomas",
+    "pictureUrl": "https://randomuser.me/api/portraits/men/8.jpg",
+    "email": "benjamin.thomas@example.com",
+    "daysSinceContact": 22,
+    "status": "Pending",
+    "tag": "Lead",
+    "bio": "Product manager researching customer success solutions.",
+    "goal": "Provide case studies",
+    "nextDueDate": "2026-06-24"
+  },
+  {
+    "id": 9,
+    "name": "Mia Garcia",
+    "pictureUrl": "https://randomuser.me/api/portraits/women/9.jpg",
+    "email": "mia.garcia@example.com",
+    "daysSinceContact": 4,
+    "status": "Active",
+    "tag": "Partner",
+    "bio": "Agency owner interested in referral opportunities.",
+    "goal": "Launch joint marketing campaign",
+    "nextDueDate": "2026-06-20"
+  },
+  {
+    "id": 10,
+    "name": "William Moore",
+    "pictureUrl": "https://randomuser.me/api/portraits/men/10.jpg",
+    "email": "william.moore@example.com",
+    "daysSinceContact": 18,
+    "status": "Follow-up",
+    "tag": "Prospect",
+    "bio": "IT manager evaluating software integration options.",
+    "goal": "Technical requirements review",
+    "nextDueDate": "2026-06-23"
+  },
+  {
+    "id": 11,
+    "name": "Charlotte Davis",
+    "pictureUrl": "https://randomuser.me/api/portraits/women/11.jpg",
+    "email": "charlotte.davis@example.com",
+    "daysSinceContact": 6,
+    "status": "Active",
+    "tag": "Client",
+    "bio": "Customer success leader focused on retention strategies.",
+    "goal": "Quarterly business review",
+    "nextDueDate": "2026-06-18"
+  },
+  {
+    "id": 12,
+    "name": "Lucas Miller",
+    "pictureUrl": "https://randomuser.me/api/portraits/men/12.jpg",
+    "email": "lucas.miller@example.com",
+    "daysSinceContact": 27,
+    "status": "Inactive",
+    "tag": "Lead",
+    "bio": "Procurement specialist comparing vendor offerings.",
+    "goal": "Re-engage and gather feedback",
+    "nextDueDate": "2026-06-28"
+  }
+  
+]
