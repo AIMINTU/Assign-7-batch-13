@@ -1,4 +1,4 @@
-import { use } from "react";
+import { use, useState } from "react";
 import SingleFriend from "../components/friends/SingleFriend";
 import { FaPlus } from "react-icons/fa";
 
@@ -6,8 +6,19 @@ const FriendPromise = fetch('/friends.json').then(res => res.json())
 
 
 const Home = () => {
+
+    
+
     const Friends = use(FriendPromise)
-    console.log(Friends)
+    const [addfiend,setAddfriend]=useState(12)
+    const handleaddfriend=()=>{
+        const newFriend=addfiend+1
+        setAddfriend(newFriend)
+        
+
+    }
+
+
     return (
         <div className="w-4xl mx-auto py-5">
             <div className="text-center m-10">
@@ -15,12 +26,12 @@ const Home = () => {
                 <p>Your personal shelf of meaningful connections. Browse, tend, and nurture the
                     relationships that matter most.</p>
 
-                <button className="flex bg-[#244D3F] ml-100 font-semibold"><span className="mt-1"><FaPlus /></span>Add a Friend</button>
+                <button onClick={handleaddfriend} className="flex bg-[#244D3F] ml-100 font-semibold"><span className="mt-1"><FaPlus /></span>Add a Friend</button>
             </div>
             {/* card section */}
             <div className=" grid grid-cols-4 gap-4 py-3 text-center">
                 <div className="shadow">
-                    <h2>12</h2>
+                    <h2>{addfiend}</h2>
                     <p>Total Friends</p>
                 </div>
                 <div className="shadow">

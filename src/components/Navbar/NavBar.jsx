@@ -17,7 +17,7 @@ const NavBar = () => {
       <div className=" flex gap-5">
 
         <div className="flex items-center gap-1">
-          <img className="text-cyan-400" src={himg}></img>
+          <img className="text-amber-400" src={himg}></img>
           <NavLink to={"/"} className={({ isActive }) => isActive ? ' text-blue-700' : ""}> Home</NavLink>
         </div>
 
